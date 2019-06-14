@@ -30,5 +30,8 @@ It was found that the location-based features could result in data-leakage and b
 6. datetime  
 7. seaborn  
 
+### Acknowledgements  
+Udacity - for providing the dataset and preparatory Spark lessons (and for making it time bound to increase accountability!)
+
 
 
