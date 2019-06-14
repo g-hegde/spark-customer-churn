@@ -1,5 +1,5 @@
 # spark-customer-churn  
-Use Spark to create a predictive model of customer churn for a music app called Sparkify  
+Use Spark to create a predictive model of customer churn for a fictional music app called Sparkify  
 
 ### Motivation  
 Churn is a problem that companies face on a regular basis. Customers may drop a service for a variety of reasons. They may find competitors better. They may find cost prohibitive. They may simply forget to renew a subscription. Whatever the reason may be, customer churn is an undesirable aspect of doing business and companies like to avoid it.  
