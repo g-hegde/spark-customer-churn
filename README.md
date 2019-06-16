@@ -2,7 +2,7 @@
 Use Spark to create a predictive model of customer churn for a fictional music app called Sparkify  
 
 ### Motivation  
-Churn is a problem that companies face on a regular basis. Customers may drop a service for a variety of reasons. They may find competitors better. They may find cost prohibitive. They may simply forget to renew a subscription. Whatever the reason may be, customer churn is an undesirable aspect of doing business and companies like to avoid it.  
+Churn is a problem that companies face on a regular basis. Customers may drop a service for a variety of reasons. They may sign up with competitors. They may find cost prohibitive. They may simply forget to renew a subscription. Whatever the reason may be, customer churn is an undesirable aspect of doing business and companies like to avoid it.  
 
 In this project, a fictional music app called Sparkify is set up with user data. The aim in this project is to use customer data to create a predictive model of customer churn in the Spark big-data framework. If companies are able to utilize customer-usage data and find patterns in them and map them accurately to indicate which customers might churn, they could, in principle, incentivize customers to stay with them. Finding such patterns could also be useful from the perspective of targeted advertising - customers demographics with advantageous average behavior can be targeted for advertising with hopes of better returns than blanket advertising.  
 
