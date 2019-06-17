@@ -18,7 +18,7 @@ It was found that the location-based features could result in data-leakage and b
 
 
 ### Files included  
-1. Sparkify.ipynb  
+1. Sparkify.ipynb  - Jupyter notebook containing Spark implementation.
 2. README.md (this file)  
 
 ### Libraries used  
